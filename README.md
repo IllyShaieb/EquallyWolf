@@ -1,5 +1,8 @@
 # Hi there, I'm Illias aka [EquallyWolf](https://github.com/equallywolf)
+
 ![Last Commit](https://img.shields.io/github/last-commit/EquallyWolf/EquallyWolf) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=EquallyWolf.EquallyWolf) [![GitHub Followers](https://img.shields.io/github/followers/equallywolf.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/equallywolf?tab=followers) [![Gmail Badge](https://img.shields.io/badge/Gmail-shaiebilly%40gmail.com-c14438?style=social&logo=gmail)](mailto:shaiebilly@gmail.com)
+
+[![EquallyWolf StackOverflow](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10468535&theme=dark)](https://stackoverflow.com/users/10468535/equallywolf)
 
 Languages:
 
@@ -11,13 +14,13 @@ Frameworks:
 
 ## About
 
-<img align="left" width="400" height="300" src="PC_Loading.gif">
+<img align="left" width="225" height="168.75" src="PC_Loading.gif">
 
 I am a self taught software engineer. My current project is ACE - A digital personal assistant powered by AI (check it out [here](https://github.com/EquallyWolf/ACE/tree/master)). It's a work in progress.
 
 Check out my other open source projects and feel free to contact me via the link under the title with any quesions or comments.
 
-[![EquallyWolf StackOverflow](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10468535&theme=dark)](https://stackoverflow.com/users/10468535/equallywolf) 
+<br /><br />
 
 ## My Activity and Stats
 
@@ -26,7 +29,7 @@ Check out my other open source projects and feel free to contact me via the link
 [![EquallyWolf's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=EquallyWolf&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Trophies
-[![EquallyWolf github trophy](https://github-profile-trophy.vercel.app/?username=EquallyWolf&row=1&theme=onedark)](https://github.com/EquallyWolf/github-profile-trophy)
+[![EquallyWolf Github Trophy](https://github-profile-trophy.vercel.app/?username=EquallyWolf&row=1&theme=onedark)](https://github.com/EquallyWolf/github-profile-trophy)
 
 ## Stargazers
 [![Stargazers Repo Roster for @equallywolf/equallywolf](https://reporoster.com/stars/equallywolf/ACE&theme=dark)](https://github.com/equallywolf/equallywolf/stargazers)
