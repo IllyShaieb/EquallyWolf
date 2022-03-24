@@ -6,6 +6,8 @@
 
 </div>
 
+<br /><br />
+
 <img align="left" width="225" height="168.75" src="PC_Loading.gif">
 
 I am a self taught software engineer. My current project is ACE - A digital personal assistant powered by AI (check it out [here](https://github.com/IllyShaieb/ACE)). It's a work in progress.
