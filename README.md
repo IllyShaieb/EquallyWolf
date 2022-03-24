@@ -1,8 +1,8 @@
-# Hi there, I'm Illias aka [EquallyWolf](https://github.com/equallywolf)
+# Hi there, I'm [Illy](https://github.com/IllyShaieb)
 
-![Last Commit](https://img.shields.io/github/last-commit/EquallyWolf/EquallyWolf) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=EquallyWolf.EquallyWolf) [![GitHub Followers](https://img.shields.io/github/followers/equallywolf.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/equallywolf?tab=followers) [![Gmail Badge](https://img.shields.io/badge/Gmail-shaiebilly%40gmail.com-c14438?style=social&logo=gmail)](mailto:shaiebilly@gmail.com)
+![Last Commit](https://img.shields.io/github/last-commit/IllyShaieb/IllyShaieb) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.IllyShaieb) [![GitHub Followers](https://img.shields.io/github/followers/equallywolf.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/IllyShaieb?tab=followers) [![Gmail Badge](https://img.shields.io/badge/Gmail-shaiebilly+github%40gmail.com-c14438?style=social&logo=gmail)](mailto:shaiebilly@gmail.com)
 
-[![EquallyWolf StackOverflow](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10468535&theme=dark)](https://stackoverflow.com/users/10468535/equallywolf)
+[![IllyShaieb StackOverflow](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10468535&theme=dark)](https://stackoverflow.com/users/10468535/equallywolf)
 
 Languages:
 
@@ -16,7 +16,7 @@ Frameworks:
 
 <img align="left" width="225" height="168.75" src="PC_Loading.gif">
 
-I am a self taught software engineer. My current project is ACE - A digital personal assistant powered by AI (check it out [here](https://github.com/EquallyWolf/ACE/tree/master)). It's a work in progress.
+I am a self taught software engineer. My current project is ACE - A digital personal assistant powered by AI (check it out [here](https://github.com/IllyShaieb/ACE/tree/master)). It's a work in progress.
 
 Check out my other open source projects and feel free to contact me via the link under the title with any quesions or comments.
 
@@ -24,12 +24,12 @@ Check out my other open source projects and feel free to contact me via the link
 
 ## My Activity and Stats
 
-[![EquallyWolf Stats](https://github-readme-stats.vercel.app/api?username=equallywolf&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EquallyWolf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![IllyShaieb Stats](https://github-readme-stats.vercel.app/api?username=IllyShaieb&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IllyShaieb&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![EquallyWolf's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=EquallyWolf&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)
+[![IllyShaieb's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=IllyShaieb&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Trophies
-[![EquallyWolf Github Trophy](https://github-profile-trophy.vercel.app/?username=EquallyWolf&row=1&theme=onedark)](https://github.com/EquallyWolf/github-profile-trophy)
+[![IllyShaieb Github Trophy](https://github-profile-trophy.vercel.app/?username=IllyShaieb&row=1&theme=onedark)](https://github.com/IllyShaieb/github-profile-trophy)
 
 ## Stargazers
 [![Stargazers Repo Roster for @equallywolf/equallywolf](https://reporoster.com/stars/equallywolf/ACE&theme=dark)](https://github.com/equallywolf/equallywolf/stargazers)
