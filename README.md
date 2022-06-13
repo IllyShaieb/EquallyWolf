@@ -1,18 +1,20 @@
 <div align="center">
 
 # Hi there, I'm [Illy](https://github.com/IllyShaieb). Welcome to my profile!
-
+  
 ![Last Commit](https://img.shields.io/github/last-commit/IllyShaieb/IllyShaieb) [![GitHub Followers](https://img.shields.io/github/followers/equallywolf.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/IllyShaieb?tab=followers) [![Gmail Badge](https://img.shields.io/badge/Gmail-shaiebilly+github%40gmail.com-c14438?style=social&logo=gmail)](mailto:shaiebilly@gmail.com)
-
+  
 </div>
 
 <br /><br />
 
-<img align="left" width="225" height="168.75" src="PC_Loading.gif">
-
 I am a self taught software engineer. My current project is ACE - A digital personal assistant powered by AI (check it out [here](https://github.com/IllyShaieb/ACE)). It's a work in progress.
 
 Check out my other open source projects and feel free to contact me via the link under the title with any quesions or comments.
+
+<div align="center">
+
+[![IllyShaieb Stats](https://github-readme-stats.vercel.app/api?username=IllyShaieb&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br /><br />
 
@@ -28,7 +30,7 @@ Frameworks:
 
 ## My Activity and Stats
 
-[![IllyShaieb StackOverflow](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10468535&theme=dark)](https://stackoverflow.com/users/10468535/equallywolf) [![IllyShaieb Stats](https://github-readme-stats.vercel.app/api?username=IllyShaieb&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![IllyShaieb StackOverflow](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10468535&theme=dark)](https://stackoverflow.com/users/10468535/illyshaieb)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IllyShaieb&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -37,3 +39,5 @@ Frameworks:
 
 ## Stargazers
 [![Stargazers Repo Roster for @equallywolf/equallywolf](https://reporoster.com/stars/illyshaieb/ACE&theme=dark)](https://github.com/illyshaieb/illyshaieb/stargazers)
+
+</div>
